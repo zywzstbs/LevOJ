@@ -1,0 +1,3 @@
+/Volumes/KIOXIA/code/C/LevOJ/P1150 细菌繁殖/cmake-build-debug/CMakeFiles/P1150_.dir
+/Volumes/KIOXIA/code/C/LevOJ/P1150 细菌繁殖/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/KIOXIA/code/C/LevOJ/P1150 细菌繁殖/cmake-build-debug/CMakeFiles/rebuild_cache.dir
