@@ -1,0 +1,3 @@
+/Volumes/KIOXIA/code/C/LevOJ/P2026 国王的演讲/cmake-build-debug/CMakeFiles/P2026_.dir
+/Volumes/KIOXIA/code/C/LevOJ/P2026 国王的演讲/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/KIOXIA/code/C/LevOJ/P2026 国王的演讲/cmake-build-debug/CMakeFiles/rebuild_cache.dir
