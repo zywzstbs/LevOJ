@@ -1,0 +1,3 @@
+/Volumes/KIOXIA/code/C/LevOJ/P2076 炼金铺 I/cmake-build-debug/CMakeFiles/P2076__I.dir
+/Volumes/KIOXIA/code/C/LevOJ/P2076 炼金铺 I/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/KIOXIA/code/C/LevOJ/P2076 炼金铺 I/cmake-build-debug/CMakeFiles/rebuild_cache.dir
