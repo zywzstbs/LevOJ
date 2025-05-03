@@ -191,7 +191,7 @@ q
 6∼10
 50pt
 50pt	无
-样例 #1
+样例 1
 样例输入 1
 
 Copy to Clipboard
