@@ -192,7 +192,7 @@ q
 50pt
 50pt	无
 样例 #1
-样例输入 #1
+样例输入 1
 
 Copy to Clipboard
 6
@@ -209,7 +209,7 @@ Copy to Clipboard
 2 4
 1
 2 5
-样例输出 #1
+样例输出 1
 
 Copy to Clipboard
 2
