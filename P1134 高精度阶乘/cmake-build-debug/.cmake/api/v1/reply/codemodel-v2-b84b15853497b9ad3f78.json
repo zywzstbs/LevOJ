@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1134_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1134_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1134_-Debug-b8cd31de8dd1743b0cf4.json",
+					"name" : "P1134_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zhangyunwen/Documents/code/C/LevOJ/P1134 \u9ad8\u7cbe\u5ea6\u9636\u4e58/cmake-build-debug",
+		"source" : "/Users/zhangyunwen/Documents/code/C/LevOJ/P1134 \u9ad8\u7cbe\u5ea6\u9636\u4e58"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
