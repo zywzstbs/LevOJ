@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/code/LevOJ/LevOJ/P1688/cmake-build-debug",
-		"source" : "D:/code/LevOJ/LevOJ/P1688"
+		"build" : "D:/code/LevOJ/P1688/cmake-build-debug",
+		"source" : "D:/code/LevOJ/P1688"
 	},
 	"version" : 
 	{

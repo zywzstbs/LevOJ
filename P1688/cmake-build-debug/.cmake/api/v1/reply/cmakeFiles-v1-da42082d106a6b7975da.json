@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3.4/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeMinGWFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2024.3.4/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -817,8 +822,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/code/LevOJ/LevOJ/P1688/cmake-build-debug",
-		"source" : "D:/code/LevOJ/LevOJ/P1688"
+		"build" : "D:/code/LevOJ/P1688/cmake-build-debug",
+		"source" : "D:/code/LevOJ/P1688"
 	},
 	"version" : 
 	{
