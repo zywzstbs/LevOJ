@@ -1,3 +1,0 @@
-D:/code/LevOJ/LevOJ/P1997/cmake-build-debug/CMakeFiles/P1997.dir
-D:/code/LevOJ/LevOJ/P1997/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/code/LevOJ/LevOJ/P1997/cmake-build-debug/CMakeFiles/rebuild_cache.dir
